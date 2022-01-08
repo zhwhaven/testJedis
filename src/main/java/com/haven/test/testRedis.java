@@ -28,6 +28,6 @@ public class testRedis {
     @Test
     public void test03(){
           System.out.println("从github上面拉下来的最新版本");
-        System.out.println("test merge by dev");
+        System.out.println("git push by dev");
     }
 }
