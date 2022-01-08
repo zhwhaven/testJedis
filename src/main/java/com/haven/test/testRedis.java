@@ -23,10 +23,11 @@ public class testRedis {
             int k =    new Random().nextInt(100);
             System.out.println(k);
         }
-
+        System.out.println("dev的版本");
     }
     @Test
     public void test03(){
-          System.out.println("从github上面拉下来的最新版本");   
+          System.out.println("从github上面拉下来的最新版本");
+        System.out.println("test merge by dev");
     }
 }
